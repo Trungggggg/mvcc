@@ -1,0 +1,13 @@
+{
+  "name": "public",
+  "authors": [
+    "HOANGNM <hoangnghiem205@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "datatables.net": "^1.10.19"
+  }
+}
